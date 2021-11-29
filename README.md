@@ -1,4 +1,4 @@
-<h1 align="center">HAy 👋, I'm Hutch79</h1>
+<h1 align="center">Hay 👋, I'm Hutch79</h1>
 <h3 align="center">A Swiss Baby dev thats trying to grow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hutch79&label=Profile%20views&color=0e75b6&style=flat" alt="hutch79" /> </p>
