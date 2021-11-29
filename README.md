@@ -1,17 +1,20 @@
-<h1 align="center">Hay 👋, I'm Hutch79</h1>
-<h3 align="center">A Swiss Baby dev thats trying to grow</h3>
+### Hay 👋, i'm Hutch79
+#### I'm a Swiss dev that has just started coding
+I really like Minecraft so nearly all my repos will be something Minecraft related ^^
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hutch79&label=Profile%20views&color=0e75b6&style=flat" alt="hutch79" /> </p>
 
-- 📫 You can Reach me on Discord **Hutch79#5048**
+Here is some stuff about me wich i unfortunatelly cant eat 😞
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🌱 I’m currently learning how Java and Github works 
+- 📫 How to reach me: Send me an Owl, maybe it will reach me ;-) 
+- 😄 Pronouns: As an Alien, this is a new concept to me. But i think im a he. Maybe a it? 
+- ⚡ Fun fact: My english sucks! 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hutch79&show_icons=true&locale=en&layout=compact" alt="hutch79" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hutch79)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Hucth79.ch)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hutch79&show_icons=true&locale=en" alt="hutch79" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hutch79)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hutch79&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/Hutch79)  
