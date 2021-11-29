@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **how the hell Java works.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I want to create **my own Minecraft Plugin's**
 
 - 📫 How to reach me? You could send me an Owl, if your lucky it will find me. Or you can write me on Discord **Hutch79#5048**
 
