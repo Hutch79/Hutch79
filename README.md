@@ -12,7 +12,7 @@
 
 - 📫 How to reach me? You could send me an Owl, if your lucky it will find me. Or you can write me on Discord **Hutch79#5048**
 
-- ⚡ Fun fact **I'm like am bug. I can always destroy things**
+- ⚡ Fun fact **I'm like am bug. I can always destroy anything**
 
 ## 🚀 Languages and Tools:
 
