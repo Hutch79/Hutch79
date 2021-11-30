@@ -36,8 +36,8 @@
 
   <br/>
     
-  ![](https://github.com/Hutch79/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Hutch79/github-stats/blob/master/generated/languages.svg)
+  ![](https://github.com/Hutch79/Hutch79/blob/main/stats/overview.svg)
+![](https://github.com/Hutch79/Hutch79/blob/main/stats/languages.svg)
 <br/>
 <br/>
 
