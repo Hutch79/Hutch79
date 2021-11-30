@@ -26,13 +26,14 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/Hutch79/">
         <img alt="Hutch79's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Hutch79&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&border=00FFF7&stroke=00FFF7&ring=008CFF&fire=0033FF&currStreakNum=008CFF&sideNums=008CFF&currStreakLabel=00D0FF&sideLabels=00D0FF&dates=00D0FF)](https://git.io/streak-stats)](https://git.io/streak-stats)"/>
     </a>
 </p>
 
-## 📊 My Github Stats
 
   <br/>
     
