@@ -35,12 +35,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Hutch79/"><img alt="Hutch79's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hutch79&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=64dcfc&icon_color=00aeff" /></a>
     
-  <a href="https://github.com/Hutch79/"><img alt="Hutch79's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutch79&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  ![](https://github.com/Hutch79/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Hutch79/github-stats/blob/master/generated/languages.svg)
 <br/>
 <br/>
 
