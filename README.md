@@ -14,18 +14,18 @@
 
 - ⚡ Fun fact **I'm like am bug. I can always destroy anything**
 
-## 🖥️ Visit my Website
+## 🖥️ **Visit my Website**
 Just go to <a href="https://Hutch79.ch/">Hutch79</a> or klick the button below.
 
-
+<p align="left">
+    <a href="https://hutch79.ch" target="_blank"> <img src="https://github.com/Hutch79/Hutch79/blob/main/button_my-website.png"width="auto" height="30"/> </a>
+</p>
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"width="70" height="70"/> </a>
     <a href="https://www.jetbrains.com/de-de/idea/" target="_blank"> <img src="https://www.jetbrains.com/idea/img/idea-edu.svg"width="65" height="65"/> </a>
-
-
 </p>
 <br/>
 
