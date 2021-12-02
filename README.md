@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning **how the hell Java works.**
 
-- 👯 I want to create **my own Minecraft Plugin's**
+- 👯 I want to create **my own Minecraft Plugins**
 
 - 📫 How to reach me? You could send me an Owl, if your lucky it will find me. Or you can write me on Discord **Hutch79#5048**
 
 - ⚡ Fun fact **I'm like am bug. I can always destroy anything**
+
 
 ## 🖥️ **Visit my Website**
 Just go to <a href="https://Hutch79.ch/">Hutch79</a> or klick the button below.
