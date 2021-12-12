@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://Hutch79.ch/">Hutch79</a></h1>
 <h3 align="center">I'm a strange dude from Swiss which is trying to learn how to code.</h3>
 
