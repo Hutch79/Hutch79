@@ -16,7 +16,7 @@
 
 
 ## 🖥️ **Visit my Website**
-Just go to <a href="https://Hutch79.ch/">Hutch79</a> or klick the button below.
+Just go to <a href="https://Hutch79.ch/">Hutch79.ch</a> or klick the button below.
 
 <p align="left">
     <a href="https://hutch79.ch" target="_blank"> <img src="https://github.com/Hutch79/Hutch79/blob/main/button_my-website.png"width="auto" height="30"/> </a>
