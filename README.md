@@ -8,9 +8,9 @@
 
 - 👯 I want to create **my own Minecraft Plugins**
 
-- 📫 How to reach me? You could send me an Owl, if you're lucky it will find me. Or you can write me on Discord **Hutch79#5048**
+- 📫 How to reach me? You could send me an Owl, if you're lucky it will find me.
 
-- ⚡ Fun fact **I'm like an bug. I can always destroy anything.** But always keep in mind, it's not a bug, it's a feature!
+- ⚡ Fun fact **I'm like an bug. I can destroy anything.**
 
 
 ## 🖥️ **Visit my Website**
