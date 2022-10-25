@@ -13,13 +13,6 @@
 - ⚡ Fun fact **I'm like an bug. I can destroy anything.**
 
 
-## 🖥️ **Visit my Website**
-Just go to <a href="https://Hutch79.ch/">Hutch79.ch</a> or klick the button below.
-
-<p align="left">
-    <a href="https://hutch79.ch" target="_blank"> <img src="https://github.com/Hutch79/Hutch79/blob/main/button_my-website.png"width="auto" height="30"/> </a>
-</p>
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
