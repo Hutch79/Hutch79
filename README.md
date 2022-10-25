@@ -1,4 +1,4 @@
-<h1 align="center">Hay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://Hutch79.ch/">Hutch79</a></h1>
+<h1 align="center">Hay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://www.spigotmc.org/resources/authors/hutch79.643873/">Hutch79</a></h1>
 <h3 align="center">I'm a strange dude from Swiss which is trying to learn how to code.</h3>
 
 
