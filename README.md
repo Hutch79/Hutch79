@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **how the hell Java works.**
 
-- 👯 I want to create **my own Minecraft Plugins**
-
 - 📫 How to reach me? You could send me an Owl, if you're lucky it will find me.
 
 - ⚡ Fun fact **I'm like an bug. I can destroy anything.**
@@ -31,11 +29,11 @@
 
 
   <br/>
-    
-  ![](https://github.com/Hutch79/Hutch79/blob/main/stats/overview.svg)
-![](https://github.com/Hutch79/Hutch79/blob/main/stats/languages.svg)
-<br/>
-<br/>
+     
+  [![Hutch79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hutch79&show_icons=true&theme=transparent)](https://github.com/Hutch79/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hutch79&layout=compact&theme=transparent)](https://github.com/Hutch79/)
+
+
 
 <a href="https://github.com/Hutch79/"><img alt="Hutch79's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hutch79&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
