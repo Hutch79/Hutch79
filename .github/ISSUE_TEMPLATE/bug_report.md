@@ -1,38 +1,91 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: 🐛 Bug Report
+description: Report a problem
+labels: ['type:bug', 'awaiting-triage']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
 
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+        Please note that we use GitHub issues exclusively for bug reports and feature requests. For support requests, please use our other support channels to get help.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a clear and concise description of the bug or issue.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of Overseerr are you running? (You can find this in Settings → About → Version.)
+    validations:
+      required: true
+  - type: textarea
+    id: repro-steps
+    attributes:
+      label: Steps to Reproduce
+      description: Please tell us how we can reproduce the undesired behavior.
+      placeholder: |
+        1. Go to [...]
+        2. Click on [...]
+        3. Scroll down to [...]
+        4. See error in [...]
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, please provide screenshots depicting the problem.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Please copy and paste any relevant log output. (This will be automatically formatted into code, so no need for backticks.)
+      render: shell
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - desktop
+        - smartphone
+        - tablet
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      description: e.g., iPhone X, Surface Pro, Samsung Galaxy Tab
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      description: e.g., iOS 8.1, Windows 10, Android 11
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      description: e.g., Chrome, Safari, Edge, Firefox
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Please provide any additional information that may be relevant or helpful.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/fallenbagel/jellyseerr/blob/develop/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow Overseerr's Code of Conduct
+          required: true
