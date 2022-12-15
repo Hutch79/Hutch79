@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Report a problem
-labels: ['type:bug', 'awaiting-triage']
+labels: ['type:bug']
 body:
   - type: markdown
     attributes:
@@ -19,7 +19,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of Overseerr are you running? (You can find this in Settings → About → Version.)
+      description: What Plugin version are you running?
     validations:
       required: true
   - type: textarea
@@ -30,8 +30,7 @@ body:
       placeholder: |
         1. Go to [...]
         2. Click on [...]
-        3. Scroll down to [...]
-        4. See error in [...]
+        3. See error in [...]
     validations:
       required: true
   - type: textarea
@@ -45,35 +44,11 @@ body:
       label: Logs
       description: Please copy and paste any relevant log output. (This will be automatically formatted into code, so no need for backticks.)
       render: shell
-  - type: dropdown
-    id: platform
-    attributes:
-      label: Platform
-      options:
-        - desktop
-        - smartphone
-        - tablet
-    validations:
-      required: true
   - type: input
-    id: device
+    id: serveroS
     attributes:
-      label: Device
-      description: e.g., iPhone X, Surface Pro, Samsung Galaxy Tab
-    validations:
-      required: true
-  - type: input
-    id: os
-    attributes:
-      label: Operating System
-      description: e.g., iOS 8.1, Windows 10, Android 11
-    validations:
-      required: true
-  - type: input
-    id: browser
-    attributes:
-      label: Browser
-      description: e.g., Chrome, Safari, Edge, Firefox
+      label: Server OS
+      description: e.g., Paper, Spigot, Purpur
     validations:
       required: true
   - type: textarea
@@ -81,11 +56,3 @@ body:
     attributes:
       label: Additional Context
       description: Please provide any additional information that may be relevant or helpful.
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/fallenbagel/jellyseerr/blob/develop/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow Overseerr's Code of Conduct
-          required: true
