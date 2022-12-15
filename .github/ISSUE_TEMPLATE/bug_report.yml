@@ -47,8 +47,8 @@ body:
   - type: input
     id: serveroS
     attributes:
-      label: Server OS
-      description: e.g., Paper, Spigot, Purpur
+      label: Server OS and Minecraft Version
+      description: e.g., Paper 1.19.2, Spigot 1.17.1, Purpur 1.18.2
     validations:
       required: true
   - type: textarea
