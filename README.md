@@ -44,4 +44,4 @@
 <a href="https://github.com/Hutch79">
     <img src="https://komarev.com/ghpvc/?username=Hutch79">
 </a>
-<a href="https://github.com/Hutch79?tab=followers"><img src="https://img.shields.io/github/followers/jayyythewaffle?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Hutch79?tab=followers"><img src="https://img.shields.io/github/followers/Hutch79?label=Followers&style=social" alt="GitHub Badge"></a>
