@@ -34,9 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hutch79&layout=compact&theme=transparent)](https://github.com/Hutch79/)
 
 
-
-<a href="https://github.com/Hutch79/"><img alt="Hutch79's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hutch79&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 
 
