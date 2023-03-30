@@ -1,12 +1,12 @@
 <h1 align="center">Hay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://www.spigotmc.org/resources/authors/hutch79.643873/">Hutch79</a></h1>
-<h3 align="center">I'm a strange dude from Swiss which is trying to learn how to code.</h3>
+<h3 align="center">I'm a strange dude from Switzerland who is trying to learn how to code.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **how the hell Java works.**
+- 🌱 I’m currently learning **how the hell Java works,** altough progress has ben made with the releas of my two Minecraft plugins.
 
-- 📫 How to reach me? You could send me an Owl, if you're lucky it will find me.
+- 📫 How to reach me? You could send me an Owl, if you're lucky it will find me. Alternatifly, join my [Discord](https://dc.hutch79.ch)
 
 - ⚡ Fun fact **I'm like an bug. I can destroy anything.**
 
