@@ -3,7 +3,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on the rewrite of my CookieClicker Plugin and improve my Java Knowledge<br>🌱 I’m currently learning a bit of everything. I'm self-hosting a bunch of with Docker, and maybe I'll create a Docker service myself sometimes<br>⚡ Fun fact: I attract Bugs better than a Light bulb...
+🔭 I’m currently working on the rewrite of my CookieClicker Plugin and improve my Java Knowledge
+<br>🌱 I’m currently learning a bit of everything. I'm self hosting some docker stuff with the help of Proxmox where i learn a lot. But the most important thing is Code Structuring. currently my projects get messy fast!
+<br>⚡ Fun fact: I attract Bugs better than a Light bulb...
 
 
 ## 🌐 Socials:
