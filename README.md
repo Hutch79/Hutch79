@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on the rewrite of my CookieClicker Plugin and improve my Java Knowledge
-<br>🌱 I’m currently learning a bit of everything. I'm self hosting some docker stuff with the help of Proxmox where i learn a lot. But the most important thing is Code Structuring. currently my projects get messy fast!
+<br>🌱 I’m currently learning C#, HTML, JavaScript (TypeScript/Angular), CSS and a bit about SQL
 
 
 ## 🌐 Socials:
