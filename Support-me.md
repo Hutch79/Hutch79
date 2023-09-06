@@ -5,7 +5,7 @@ I've been using all the listed providers for more than a year and never had any 
 
 To be clear, if you register an account with any of the following links, I will receive approximately 10% of what you spend with these services at no additional cost to you!
 
-# Deinserverhost [Click](https://deinserverhost.de/store/aff.php?aff=5075)
+# [Deinserverhost](https://deinserverhost.de/store/aff.php?aff=5075)
 <a href="https://deinserverhost.de/store/aff.php?aff=5075"><img src="https://deinserverhost.de/tca/600x150_transparent.png" width="300" height="75" border="0"></a>  
 This is a German company that offers game servers, dedicated servers as well as virtual servers.
 
@@ -17,7 +17,7 @@ The price performance is one of the best I have found so far and the support is 
 Deinserverhost also offers Game Servers, which I have also used. These also have a very good price-performance ratio, and during my use I have never experienced that the server has lagged.  
 https://deinserverhost.de/en/minecraft-server-hosting
 
-# Lima-City [Click](https://www.lima-city.de/webhosting?cref=408411)
+# [Lima-City](https://www.lima-city.de/webhosting?cref=408411)
 <a href="https://www.lima-city.de/webhosting?cref=408411"><img alt="lima-city: Webhosting, Domains und Cloud" src="https://www.lima-city.de/assets/banner/logo_red.png" width="225" height="58" border="0"></a>  
 Lima-City is a German hosting company that offers a lot of features for a reasonable price, while also providing good support.
 
