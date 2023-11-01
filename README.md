@@ -1,4 +1,4 @@
-<h1 align="center">Hay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://modrinth.com/user/Hutch79">Hutch79</a></h1>
+<h1 align="center">Heya, I'm <a href="https://modrinth.com/user/Hutch79">Hutch79</a></h1>
 <h3 align="center">I'm a strange dude from Switzerland who is trying to learn how to code.</h3>
 
 
