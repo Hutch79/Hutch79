@@ -1,14 +1,5 @@
 <h1 align="center">Heya, I'm <a href="https://modrinth.com/user/Hutch79">Hutch79</a></h1>
-<h3 align="center">I'm a strange dude from Switzerland who is trying to learn how to code.</h3>
-
-
-# 💫 About Me:
-🔭 I’m currently working on the rewrite of my CookieClicker Plugin and improve my Java Knowledge
-<br>🌱 I’m currently learning C#, HTML, JavaScript (TypeScript/Angular), CSS and a bit about SQL
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/D9a8EDB6G6) 
+<h3 align="center">I'm a strange dude from Switzerland who's currently learning how to code.</h3>
 
 # 💻 Tech Stack:
 - **Python**: Basic Knowlage (Functions, Classes with multiple instances)
