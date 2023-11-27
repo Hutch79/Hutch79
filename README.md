@@ -11,17 +11,22 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/D9a8EDB6G6) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **Python**: Basic Knowlage (Functions, Classes with multiple instances)
+- **Java**: Basic Knowlage, see my [F-Command](https://github.com/Hutch79/F-Command) plugin for an example
+- **C#**: Currently learning in my [Apprenticeship](https://www.modulbaukasten.ch/?d=13d8d40b-6d82-eb11-a812-0022486f6f83)
+- **HTML, CSS, JS with Angular**: Also currentli learning in my Apprenticeship
+- **Databases**: Part of my [Apprenticeship](https://www.modulbaukasten.ch/?d=13d8d40b-6d82-eb11-a812-0022486f6f83)
+  
+- **Cloudflare**: In use for my Homelab (DNS, Tunnels, Zero Trust with Google Social Login)
+- **Docker**: Also used in my Homelab, Managed with Portainer and mostly in use with Docker-Compose
+
+- Hardware understanding from my Apprenticeship as electronics technician
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hutch79&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hutch79&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hutch79&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hutch79&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hutch79&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=hutch79&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/Hutch79)
