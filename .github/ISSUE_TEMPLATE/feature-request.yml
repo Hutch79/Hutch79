@@ -26,7 +26,7 @@ body:
         - The title should be short and descriptive.
         - Explain what your request is about.
         - The context should lead to something, an idea or a problem that you’re facing.
-        - What would be the benefit it this feature got implemented?
+        - What would be the benefit if this feature got implemented?
         - Remain clear and concise.
         - Format your messages to help the reader focus on what matters and understand the structure of your message, use [Markdown syntax](https://help.github.com/articles/github-flavored-markdown)
       placeholder: Feature xyz is missing
