@@ -1,11 +1,10 @@
----
 name: Bug Report
-about: Use this template for reporting bugs.
 labels: bug
 title: "[Bug] "
----
-
-## Bug Description
-Please describe the Bug you're experiencing. Include any relevant screenshots or gifs.  
-
-## Steps to reproduce
+body:
+- type: markdown
+  attributes:
+    value: "Describe the Bug you're experiencing"
+- type: markdown
+  attributes:
+    label: "How to reproduce the Bug"
